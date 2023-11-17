@@ -1,4 +1,4 @@
-![0a1a2559-c948-46a3-9003-9075b463280d](https://github.com/huynn0105/assignment/assets/51359128/72529024-69ec-4a71-85b6-10c2edacba90)# jokee_app
+# jokee_app
 
 Flutter Jokee App
 
